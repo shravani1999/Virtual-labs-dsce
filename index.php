@@ -70,7 +70,7 @@
     Vice-Principal,<br>
     Professor & Head of the Department.</p> <br><br>
   </div>
-<a href="titles.php" style="font-size:20px; margin: 10px; float: left;" class="ui dodger blue button">Go to Virtual Labs</a><br><br><br>
+<a href="titlesvi.php" style="font-size:20px; margin: 10px; float: left;" class="ui dodger blue button">Go to Virtual Labs</a><br><br><br>
 
   </div> 
   <div class="ui inverted  large segment" >
