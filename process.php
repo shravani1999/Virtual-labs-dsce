@@ -10,7 +10,7 @@ if($_POST)
   {
     require_once("process/loginprocess.php");
   }
-  else echo("ERROR SESSION TYPE MISMATCH in titles.php");
+  else echo("ERROR SESSION TYPE MISMATCH in titlesvi.php");
   
   $_SESSION["username"]=$_POST['name'];
   $_SESSION["usn"]=$_POST['usn'];
