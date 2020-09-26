@@ -18,7 +18,7 @@ if($_POST)
   echo session_status();
   echo $_SESSION["username"];
 
-  header("Location: titles.php");
+  header("Location: titlesvi.php");
   exit;
 
 }
